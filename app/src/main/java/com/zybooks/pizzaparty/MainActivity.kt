@@ -10,9 +10,6 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import kotlin.math.ceil
 
-/**
- *
- */
 const val TAG = "MainActivity"
 //const val SLICES_PER_PIZZA = 8
 /**
